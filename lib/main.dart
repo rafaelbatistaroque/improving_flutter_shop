@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:improving_flutter_shop/pages/tabs.dart';
+import 'package:improving_flutter_shop/widgets/tabs.dart';
 
 void main() => runApp(MyApp());
 
