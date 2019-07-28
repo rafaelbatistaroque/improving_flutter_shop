@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
           children: <Widget>[
             Padding(
               padding:
-                  EdgeInsets.only(left: 10, right: 10, top: 30, bottom: 12),
+                  EdgeInsets.only(left: 10, right: 10, top: 30, bottom: 10),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
